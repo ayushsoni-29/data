@@ -1,0 +1,5 @@
+order_detail_id,order_id,customer_id,product_id
+1,101,1001,P123
+2,101,1001,P124
+3,102,1002,P124
+4,103,1001,P125

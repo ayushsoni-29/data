@@ -1,0 +1,6 @@
+sale_id,product_id,sale_date,sales,region,store_id,quarter,category
+1,P123,2023-01-15,1000.00,North,1,Q1,Electronics
+2,P124,2023-01-16,150.00,North,1,Q1,Accessories
+3,P123,2023-04-20,1200.00,South,2,Q2,Electronics
+4,P125,2023-04-21,300.00,South,2,Q2,Accessories
+5,P126,2023-07-10,800.00,East,3,Q3,Office
